@@ -45,6 +45,9 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+/android/key.jks
+/android/key.properties
+
 
 google-services.json
 GoogleService-Info.plist
